@@ -43,7 +43,7 @@ We've seen that there is strong interest in pre-lecture videos. The agree to str
 
 Now that we have cleaned data, we can visualize data indicating preference for pre-lecture videos before breaking down the groups that might want it. We will use a bar chart which falls under displot in seaborn. The graph shows a strong preference for pre-lecture videos. The people that want videos (5-7) strongly outnumber those that do not or are neutral (1-4). 
 
-![Chart 1](chart1.png)
+![Chart 1](chart.png)
 
 ### Analysis of Pace vs. Pre-lecture video interest with Barchart 
 
